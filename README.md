@@ -1,2 +1,2 @@
 # Jojo
-coding anthropologist
+Coding Anthropologist
